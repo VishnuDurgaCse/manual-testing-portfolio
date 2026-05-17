@@ -84,7 +84,7 @@ professionally using Jira and Excel.
 
 ### Sample Test Case
 
-[Test Case](manual-testing-portfolio/Jira%20Screenshoot/GreekForGreeks%20Negative%20Testcase.png)
+![Test Case](manual-testing-portfolio/Jira%20Screenshoot/GreekForGreeks%20Negative%20Testcase.png)
 
 
 ---
