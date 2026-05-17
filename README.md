@@ -76,15 +76,15 @@ professionally using Jira and Excel.
 
 ### Backlog Overview
 
-https://github.com/VishnuDurgaCse/manual-testing-portfolio/blob/main/manual-testing-portfolio/Jira%20Screenshoot/Jira-backlog.png
+![Jira Backlog](manual-testing-portfolio/Jira%20Screenshoot/Jira-backlog.png)
 
 ### Sample Bug Ticket
 
-https://github.com/VishnuDurgaCse/manual-testing-portfolio/blob/main/manual-testing-portfolio/Jira%20Screenshoot/Zepto-Bug.png
+![Bug Ticket](manual-testing-portfolio/Jira%20Screenshoot/Zepto-Bug.png)
 
 ### Sample Test Case
 
-https://github.com/VishnuDurgaCse/manual-testing-portfolio/blob/main/manual-testing-portfolio/Jira%20Screenshoot/GreekForGreeks%20Negative%20Testcase.png
+[Test Case](manual-testing-portfolio/Jira%20Screenshoot/GreekForGreeks%20Negative%20Testcase.png)
 
 
 ---
